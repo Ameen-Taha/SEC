@@ -1,0 +1,5 @@
+sentence-transformers
+streamlit
+scikit-learn
+numpy
+regex
